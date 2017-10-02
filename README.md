@@ -15,7 +15,7 @@
 
 Урок 05("Знакомство с основами CSS - книга") - Знакомство с основами CSS - книга
 
-[Урок 06-1](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_06-1/index.html "Позиционирование в CSS - фиксированное меню") - Позиционирование в CSS - фиксированное меню
+[Урок 06-1](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_06-1/ "Позиционирование в CSS - фиксированное меню") - Позиционирование в CSS - фиксированное меню
 
 [Урок 06-2](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Позиционирование в CSS - блок в центре") - Позиционирование в CSS - блок в центре
     
