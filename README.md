@@ -1,4 +1,4 @@
 # Красникова Татьяна
 ## Курс веб-разработчик 10.0
 ### Модуль 1. Погружение в тему
-    [Урок 1](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Этапы создания сайтов") - Этапы создания сайтов
+    [Урок 1](/s-postu.github.io/blob/master/lesson_1/test.jpg "Этапы создания сайтов") - Этапы создания сайтов
