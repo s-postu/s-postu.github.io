@@ -11,11 +11,11 @@
 
 ### Модуль 2. Изучение основ HTML и CSS
 
-[Урок 04](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_04/src/index.html "Знакомство с основами HTML - книга") - Знакомство с основами HTML - книга
+[Урок 04](https://s-postu/lesson_04/src/index.html "Знакомство с основами HTML - книга") - Знакомство с основами HTML - книга
 
 Урок 05("Знакомство с основами CSS - книга") - Знакомство с основами CSS - книга
 
-[Урок 06-1](https://s-postu.github.io/blob/master/lesson_06-1/ "Позиционирование в CSS - фиксированное меню") - Позиционирование в CSS - фиксированное меню
+[Урок 06-1](https://s-postu.github.io/lesson_06-1/ "Позиционирование в CSS - фиксированное меню") - Позиционирование в CSS - фиксированное меню
 
 [Урок 06-2](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Позиционирование в CSS - блок в центре") - Позиционирование в CSS - блок в центре
     
