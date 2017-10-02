@@ -4,7 +4,9 @@
 
 ### Модуль 1. Погружение в тему
 [Урок 01](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Этапы создания сайтов") - Этапы создания сайтов
+
 [Урок 02](https://yadi.sk/d/KcUPeKlB3NQzWi "Работа с графикой для разработчика") - Работа с графикой для разработчика
+
 [Урок 03](https://github.com/s-postu/s-postu.github.io/tree/master/lesson_03 "Настройка рабочего пространства") - Настройка рабочего пространства
 
 ### Модуль 2. Изучение основ HTML и CSS
