@@ -31,7 +31,7 @@
 
 [Урок 10](https://s-postu.github.io/lesson_10/less/main.less "Препроцессор LESS для CSS") - Препроцессор LESS для CSS
 
-[Урок 11-1](https://s-postu.github.io/lesson_11-1/L11.sublime-snippet "Сниппеты. Сниппет HTML") - Сниппеты. Сниппет HTML
+[Урок 11-1](https://s-postu.github.io/lesson_11-1/L11html.jpg "Сниппеты. Сниппет HTML") - Сниппеты. Сниппет HTML
 
 [Урок 11-2](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Сниппеты. Сниппет CSS") - Сниппеты. Сниппет CSS
 
