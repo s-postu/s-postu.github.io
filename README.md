@@ -17,7 +17,7 @@
 
 [Урок 05](https://s-postu.github.io/lesson_05/index.html "Позиционирование в CSS - фиксированное меню") - Позиционирование в CSS - фиксированное меню
 
-[Урок 06](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Позиционирование в CSS - блок в центре") - Позиционирование в CSS - блок в центре
+[Урок 06](https://s-postu.github.io/lesson_06/index.html "Позиционирование в CSS - блок в центре") - Позиционирование в CSS - блок в центре
     
 ### Модуль 3
 
