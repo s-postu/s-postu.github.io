@@ -21,7 +21,7 @@
     
 ### Модуль 3
 
-[Урок 07](s-postu.github.io/lesson_07/src/ "Верстка первого макета.") - Верстка первого макета.
+[Урок 07](https://s-postu.github.io/lesson_07/src/ "Верстка первого макета.") - Верстка первого макета.
 
 [Урок 08](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Ускорение верстки в разы") - Ускорение верстки в разы
 
