@@ -33,7 +33,7 @@
 
 [Урок 11-1](https://s-postu.github.io/lesson_11-1/L11html.jpg "Сниппеты. Сниппет HTML") - Сниппеты. Сниппет HTML
 
-[Урок 11-2](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Сниппеты. Сниппет CSS") - Сниппеты. Сниппет CSS
+[Урок 11-2](https://s-postu.github.io/lesson_11-2/L11css.jpg "Сниппеты. Сниппет CSS") - Сниппеты. Сниппет CSS
 
 [Урок 11-3](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Сниппеты. Тренажер Emmet") - Сниппеты. Тренажер Emmet
 
