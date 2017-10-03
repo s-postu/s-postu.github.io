@@ -35,9 +35,9 @@
 
 [Урок 11-2](https://s-postu.github.io/lesson_11-2/L11css.jpg "Сниппеты. Сниппет CSS") - Сниппеты. Сниппет CSS
 
-[Урок 11-3](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Сниппеты. Тренажер Emmet") - Сниппеты. Тренажер Emmet
+[Урок 11-3](https://s-postu.github.io/lesson_11-3/Traning-Emmet.jpg "Сниппеты. Тренажер Emmet") - Сниппеты. Тренажер Emmet
 
-[Урок 12](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Хостинг от GitHub") - Хостинг от GitHub
+[Урок 12](https://s-postu.github.io/ "Хостинг от GitHub") - Хостинг от GitHub
     
 ### Модуль 5. Полноценная практика
 
