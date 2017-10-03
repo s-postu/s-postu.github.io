@@ -25,7 +25,7 @@
 
 [Урок 08](https://s-postu.github.io/lesson_08/index.html "Ускорение верстки в разы") - Ускорение верстки в разы
 
-[Урок 09](https://s-postu.github.io/lesson_09/ "Верстка при помощи bootstrap") - Верстка при помощи bootstrap
+[Урок 09](https://s-postu.github.io/lesson_09/index.html "Верстка при помощи bootstrap") - Верстка при помощи bootstrap
     
 ### Модуль 4
 
