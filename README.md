@@ -23,7 +23,7 @@
 
 [Урок 07](https://s-postu.github.io/lesson_07/index.html "Верстка первого макета.") - Верстка первого макета.
 
-[Урок 08](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Ускорение верстки в разы") - Ускорение верстки в разы
+[Урок 08](https://s-postu.github.io/lesson_08/index.html "Ускорение верстки в разы") - Ускорение верстки в разы
 
 [Урок 09](https://s-postu.github.io/lesson_09/ "Верстка при помощи bootstrap") - Верстка при помощи bootstrap
     
