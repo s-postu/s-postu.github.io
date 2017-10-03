@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	position: relative;
+	left: 0;
+}
+
+img {
+	height: 136px;
+}
+.feature {
+	display: block;
+	text-transform: uppercase;
+	font-family: Arial;
+	font-size: 36px;
+	color: #333333;
+	text-align: center;
+	margin: 100px 0;
+}
+
+.m-feature {
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+}
+
+.t-feat {
+	display: block;
+	font-size: 18px;
+	font-family: Arial;
+	color: #333333;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+.m-feat {
+	display: inline-block;
+	vertical-align: bottom;
+}
