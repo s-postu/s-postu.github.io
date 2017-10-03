@@ -29,7 +29,7 @@
     
 ### Модуль 4
 
-[Урок 10](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Препроцессор LESS для CSS") - Препроцессор LESS для CSS
+[Урок 10](https://s-postu.github.io/lesson_10/less/main.less "Препроцессор LESS для CSS") - Препроцессор LESS для CSS
 
 [Урок 11-1](https://github.com/s-postu/s-postu.github.io/blob/master/lesson_1/test.jpg "Сниппеты. Сниппет HTML") - Сниппеты. Сниппет HTML
 
