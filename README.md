@@ -41,8 +41,8 @@
     
 ### Модуль 5. Полноценная практика
 
-[Урок 13](https://s-postu.github.io/lesson_13/index.html "Pixel Rerfect") - Адаптивная верстка. Pixel Rerfect
+[Урок 13-1](s-postu.github.io/lesson_13_1/index.html "Pixel Rerfect") - Адаптивная верстка. Pixel Rerfect
 
-[Урок 13 Практика - 01](https://s-postu.github.io/lesson_13/index.html "Адаптивная верстка") - Адаптивная верстка. Верстка шапки сайта
+[Урок 13-2 Практика - 01](https://s-postu.github.io/lesson_13/index.html "Адаптивная верстка") - Адаптивная верстка. Верстка шапки сайта
 
 [Урок 14 Практика - 02]( "Подключение шрифтов") - Подключение шрифтов
