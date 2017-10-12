@@ -14,9 +14,10 @@
 
     <!-- Bootstrap core CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
 
     <!-- Custom styles for this template -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="starter-template.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -31,54 +32,45 @@
 
   <body>
 
-   <div class="container">
-
-
+<div class="container">
+  <div class="nt">
 
   <!-- Nav tabs -->
-
-<div class="nt">
-      <div class="">
-      <ul class="nav nav-tabs nt-tab">
-    <li class="active nt-tab-f">
-      <a href="#home" data-toggle="tab">Вход</a>
-      </li>
-    <li class="nt-tab-reg">
-      <a href="#profile" data-toggle="tab">Регистрация</a>
-      </li>
+  <ul class="nav nav-tabs ntab" role="tablist">
+    <li class="active"><a href="#home" aria-controls="home" data-toggle="tab">Вход</a></li>
+    <li><a href="#profile" aria-controls="profile" data-toggle="tab">Регистрация</a></li>
   </ul>
 
   <!-- Tab panes -->
 
-<div class="table">
-   <div class="form">
-    <div class="tab-content">
-     <div class="tab-pane active" id="Регистрация">
-    
-    </div>
-    <div class="tab-pane" id="Регистрация">Регистрация</div>
-      </div>
-
-    
-     
-      <input type="text" placeholder="Ваше имя">
+  <div class="form">
+ <div class="tab-content form-in">
+    <div class="tab-pane active form-in-text" id="home">
+    <input type="text" placeholder="Ваше имя">
       <input type="text" placeholder="Пароль">
-      <p>
-        Забыли пароль?
-      </p>
+      <a href="#">Забыли пароль?</a>
       <input name="remember" id="remember" value="1" type="checkbox">
       <label>Напомнить мне</label>
       <button class="form-btn" href="#">Войти</button>
       </div>
 
+
+    <div class="tab-pane form-reg-text" id="profile">
+    <input type="text" placeholder="Ваше имя">
+      <input type="text" placeholder="Пароль">
+      <input type="text" placeholder="Повтор пароля">
+      <input name="remember" id="remember" value="1" type="checkbox">
+      <label>C <a href="#">правилами</a> ознакомлен и согласен</label>
+      <button class="form-but" href="#">Зарегистрироваться</button>
+    </div>
+  </div>
 </div>
 
 </div>
- </div>
-    </div><!-- /.container -->
+      </div>
+   
 
-
-    <!-- Bootstrap core JavaScript
+   <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
