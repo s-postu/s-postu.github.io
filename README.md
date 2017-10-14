@@ -66,3 +66,5 @@
 [Урок 18-1-2](https://s-postu.github.io/lesson_18-1-3/index.html "Табы и аккордеон на сайте. Табы") - Табы и аккордеон на сайте. Табы"
 
 [Урок 18-2 Практика - 06](https://s-postu.github.io/lesson_18-2/index.html "Верстка блока Цены") - Верстка блока "Цены"
+
+[Урок 19-1](https://s-postu.github.io/lesson_19-1/index.html "Анимация CSS3") - Анимация CSS3
