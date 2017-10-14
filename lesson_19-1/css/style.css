@@ -179,26 +179,20 @@ body {
   margin-top: 40px;
   z-index: 5;
 }
-@-webkit-keyframes move {
-  from {
-    margin-left: -200px;
-  }
-  to {
-    margin-left: 50px;
-  }
+/* @keyframes move {
+	from {
+		margin-left: -200px;
+		}
+
+to {
+margin-left: 50px;
 }
-@keyframes move {
-  from {
-    margin-left: -200px;
-  }
-  to {
-    margin-left: 50px;
-  }
 }
+
 input {
-  -webkit-animation: move 2s alternate-reverse 2;
-          animation: move 2s alternate-reverse 2;
-}
+	animation: move 2s alternate-reverse 2;
+
+} */
 input {
   display: block;
   background-color: transparent;
