@@ -74,3 +74,5 @@
 [Урок 19-2 Практика - 07](https://s-postu.github.io/lesson_19-2/index.html "Вертска блока Отзывы") - Вертска блока "Отзывы"
 
 [Урок 20-1](https://s-postu.github.io/lesson_20-1/index.html "Видеофон на сайте") - Видеофон на сайте
+
+[Урок 20-2 Практика - 08](https://s-postu.github.io/lesson_20-2/index.html "Адаптив блока Отзывы") - Адаптив блока "Отзывы"
