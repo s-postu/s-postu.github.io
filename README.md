@@ -78,3 +78,5 @@
 [Урок 20-2 Практика - 08](https://s-postu.github.io/lesson_20-2/index.html "Адаптив блока Отзывы") - Адаптив блока "Отзывы"
 
 [Урок 21-1](https://s-postu.github.io/lesson_21-1/index.html "Parallax эффект на сайте") - Parallax эффект на сайте
+
+[Урок 21-2 Практика - 09](https://s-postu.github.io/lesson_21-2/index.html "Верстаем схему работы и все включено") - Верстаем схему работы и все включено
