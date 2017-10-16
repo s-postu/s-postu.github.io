@@ -452,7 +452,7 @@ section {
 .problems-woman {
   position: absolute;
   bottom: 0;
-  left: 43.5%;
+  left: 42%;
   top: 35%;
 }
 .problems-list {
@@ -498,6 +498,7 @@ section {
   background-size: 70%;
 }
 .problems-list_good {
+  margin-left: -3rem;
   border-color: #358314;
 }
 .problems-list_good ul li:before {
@@ -573,7 +574,7 @@ section {
     display: none;
   }
   .problems-list {
-    min-height: 40rem;
+    min-height: 45rem;
   }
 }
 @media (max-width: 991px) {
@@ -620,6 +621,9 @@ section {
   }
   .problems-list {
     min-height: auto;
+  }
+  .problems-list_good {
+    margin-left: 0;
   }
   .scheme {
     background: #ffffff url('../img/scheme/scheme-bg.png') bottom right -30rem no-repeat;
@@ -697,8 +701,7 @@ section {
     padding: 0;
   }
   .problems-list {
-    border: none;
-    padding: 0;
+    padding: 1rem;
   }
   .problems-list li {
     text-overflow: clip;
