@@ -9,14 +9,18 @@ h1 {
   text-align: center;
   margin: 100px;
 }
+.mape {
+  position: absolute;
+  width: 100%;
+}
 .contacts {
   display: inline-block;
   width: 380px;
   height: 430px;
-  padding: 70px;
+  padding: 50px 70px 0;
   background-color: #c60b0b;
   position: absolute;
-  margin-left: -80%;
+  margin-left: 300px;
   color: #ffffff;
   text-align: center;
 }
@@ -39,7 +43,10 @@ h1 {
 }
 .footer {
   background-color: #ffffff;
-  margin-top: -5px;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: 155px;
 }
 .logo h4 {
   display: inline-block;
