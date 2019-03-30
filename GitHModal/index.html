@@ -1,0 +1,130 @@
+	<!DOCTYPE html>
+	<html lang="ru">
+		<head>
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+			<link rel="icon" href="img/favicon.ico">
+			<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+			<link rel="stylesheet" type="text/css" href="css/style.css">
+
+			<title>Продажа и монтаж свайно-винтового фундамента!</title>
+			</head>
+	
+		<body>
+			<main>
+				
+
+<!--Лого, описание и телефон-->
+				<div class="container container-head">
+						<div class="row">
+							<div class="header">
+								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+									<div class="logo">
+										<a href="/">
+									<img src="img/logo.png" alt="svaimo">
+									<p>svaimo</p>
+									<p class="rotate">.ru</p>
+									</a>
+									</div>
+									</div>
+										<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12">
+											<div class="about">
+												<span>Винтовой фундамент обладает рядом преимуществ, но главная из них -<br> возможность закладки фундамента даже на самых сложных грунтах!</span>
+											</div>
+										</div>
+										<div class="col-lg-2 col-md-2 col-sm-4 col-xs-12">
+											<div class="phone">
+											<h2>+7 495 77-77-66</h2>
+<!--Ссылка вызова модального окна--><a href="#"><span>Заказать обратный звонок</span></a>
+												</div>
+											</div>
+							</div>
+						</div>
+					</div>
+						
+</main>
+
+						<!--Обратите внимание на наше горячее предложение!-->
+<section class="offer">
+	<div class="container">
+		<h2>Обратите внимание на наше горячее предложение!</h2>
+			<div class="row">
+				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<div class="offer-sm">
+						<div class="offer-tape"></div>
+						<h2 class="offer-price">цена: 21000&#8381</h2>
+						<img src="img/Gift.png" alt="Сваи">
+						</div>
+					</div>
+				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<div class="offer-gift">
+						<div class="offer-gift-text">
+							<h3>внимание акция!!!</h3>
+							<p>При заказе 20 свай, Вы совершенно бесплатно и с доставкой получаете от нашей компании еще одну, 21-ую сваю в подарок!</p>
+							</div>
+<!--Кнопка выхова модального окна--><button class="btn-offer popup-btn">Заказать фундамент!</button>
+					</div>
+				</div>
+			</div>
+		</div>
+</section>
+
+									<!--Модальное окно-->    
+<div class="popup">
+	<div class="popup-dialog">
+		<button class="popup-close">&times;</button>
+
+				<div class="form-in popup-form">
+					<form id="innerModal" action="mailer/smart.php" method="POST">
+						<h3>Заполните форму и наш менеджер свяжется с Вами!</h3>
+							<input class="input-cont" type="text" name="name" required>
+				    			<div class="placeholder-name">Ваше имя<span class="star">*</span>
+				    					</div>
+				    		<input class="input-cont" type="tel" name="phone" required>
+				    			<div class="placeholder-phone">Ваш телефон<span class="star">*</span>
+				    					</div>
+				    		<input class="input-cont placeholder-email" id="email" type="text" name="email" placeholder="Эл. почта">
+				    		<textarea class="input-cont message placeholder-message" type="text" name="message" id="message" rows="4" placeholder="Ваше сообщение"></textarea>	
+								<button class="form-btn" type="submit">Сделать заказ!</button>
+							<small class="snow">*</small>
+							<small class="fields">Поля, обязательные к заполнению</small>
+							<small class="data">Ваши данные в безопасности!</small>
+		    			</form>
+		</div>
+	</div>
+</div>
+
+
+<script src="js/bootstrap.js"></script>
+<script src="js/jquery-1.12.2.min.js"></script>
+   			
+	<script src="mailer/smart.php"></script>
+	<script>
+		$('form').submit(function(event) {
+			event.preventDefault();
+			$.ajax({
+				type: "POST",
+				url: "mailer/smart.php",
+				data: $(this).serialize()
+			}).done(function() {
+				$(this).find("input").val("");
+				alert("Спасибо за обращение! Наш специалист свяжется с Вами в ближайшее время!");
+				$('form').trigger("reset");
+				$('.popup').fadeOut();
+			});
+			return false;
+		});
+	</script>
+<!--Скрипт модального окна-->
+<script>
+	$(document).ready(function(){
+	$('.popup-btn').on('click',function(event){
+		event.preventDefault();
+		$('.popup').fadeIn();});
+	$('.popup-close').on('click',
+	function(event){event.preventDefault();
+$('.popup').fadeOut();})
+</script>
+
+</body>
+	</html>
